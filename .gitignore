@@ -1,0 +1,7 @@
+node_modules/
+.DS_Store
+.env
+out/
+*.log
+email-showcase/node_modules/
+email-showcase/out/

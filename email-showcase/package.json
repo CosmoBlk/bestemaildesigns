@@ -1,0 +1,22 @@
+{
+  "name": "email-showcase",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "studio": "remotion studio src/index.js",
+    "render:gif": "remotion render src/index.js EmailShowcase out/showcase.gif --image-format png",
+    "render:mp4": "remotion render src/index.js EmailShowcase out/showcase.mp4",
+    "render:wide": "remotion render src/index.js EmailShowcaseWide out/showcase-wide.gif --image-format png"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@remotion/cli": "^4.0.441",
+    "@remotion/gif": "^4.0.441",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "remotion": "^4.0.441"
+  },
+  "description": ""
+}
