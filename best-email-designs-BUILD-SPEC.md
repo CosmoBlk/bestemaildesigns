@@ -6,19 +6,27 @@
 
 ## Status Tracker (updated by Claude Code)
 
-**Last updated:** 2026-03-30
+**Last updated:** 2026-03-31
 
 | Phase | Status | Notes |
 |-------|--------|-------|
-| 1. Research & Curate | DONE - REVIEW | 55 emails curated from 254 candidates. curated-emails.json + curated-emails.md ready for George review. |
-| 2. Figma File | NOT STARTED | Blocked on George review of Phase 1 |
-| 3. Landing Page | NOT STARTED | |
-| 4. Nitrosend Email Flow | NOT STARTED | |
-| 5. Twitter/X Assets | NOT STARTED | Blocked on screenshots |
-| 6. Influencer Outreach | NOT STARTED | |
-| 7. OG Image & Assets | NOT STARTED | Blocked on screenshots |
+| 1. Research & Curate | DONE | 57 emails curated from 254 candidates. curated-emails.json + curated-emails.md complete. |
+| 2. Figma File | IN PROGRESS | File key: R0TGDVXqjQNIdVI4DxCbKM, node 99:3. Needs screenshots + text formatting + links. |
+| 3. Landing Page | DEPLOYED | nitrosend.com/best-email-designs live (unlisted). PR merged: nitrosend/web#3. Uses nitrosend public API for email capture. |
+| 4. Nitrosend Email Flow | NOT STARTED | Need to set up automated welcome email with Figma link. |
+| 5. Twitter/X Assets | IN PROGRESS | Remotion scaffold in email-showcase/. 8 screenshots downloaded, capturing more. |
+| 6. Influencer Outreach | DONE | designer-outreach.json + influencer-targets.json ready. whop-listing.md drafted. |
+| 7. OG Image & Assets | PARTIAL | OG image created (public/og-best-email-designs.png). Twitter card done. GIF pending screenshots. |
 
-**To resume:** Run `let's continue the best-email-designs build` and Claude will read this spec + memory file to pick up where it left off. Check research-*.json files for completed research, curated-emails.json for final curation.
+**Screenshots:** 8 of 57 downloaded to assets/screenshots/. ReallyGoodEmails blocks direct downloads (403). Using Playwright headless browser to capture remaining from RGE pages. 34 emails have no direct screenshot URL — need to source from blog posts or capture manually.
+
+**GitHub:** Committed to https://github.com/CosmoBlk/bestemaildesigns (main branch).
+
+**Web repo:** Landing page at nitrosend/web on main branch (PR #3 merged). Deployed via Vercel at nitrosend.com/best-email-designs (200 OK). Not linked from nav. Uses nitrosend public API key for email capture, list_id 45.
+
+**Figma MCP:** Consistently returning net::ERR_FAILED despite Figma desktop running. May need restart or reconnection. File key: R0TGDVXqjQNIdVI4DxCbKM, target node: 99:3.
+
+**To resume:** Run `let's continue the best-email-designs build` and Claude will read this spec + memory file to pick up where it left off.
 
 ---
 
