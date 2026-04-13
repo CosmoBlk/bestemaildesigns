@@ -1,11 +1,11 @@
 # 50+ Best Email Designs of 2026 - Curated Collection
 
-**Curated by George Hartley** | 57 emails across 7 categories
+**Curated by George Hartley** | 53 emails across 7 categories
 **Status:** Ready for George review
 
 ---
 
-## Welcome & Onboarding (8 emails)
+## Welcome & Onboarding (7 emails)
 
 ### 1. Figma - Product-Led Welcome
 **Subject:** Welcome to Figma!
@@ -20,12 +20,6 @@ Tags: saas, welcome, onboarding, design-tool, product-led
 **Data:** RGE 2025 Award Winner - Welcome Email category
 [View on RGE](https://reallygoodemails.com/2025-email-awards) | Screenshot available
 Tags: award-winner, ai, saas, branding
-
-### 3. Superhuman - Plain-Text Onboarding Series
-**Why it's special:** Deliberately uses plain text instead of HTML. One email per day teaching a single feature. Feels like getting a note from a friend, not a marketing machine. Better deliverability too.
-**What to steal:** Sometimes the best design is no design. Plain text can outperform polished HTML when the goal is trust and personal connection.
-[Source](https://www.iteratorshq.com/blog/superhuman-onboarding-the-early-stage-saas-guide-to-unbeatable-client-experiences/)
-Tags: plain-text, onboarding, saas, personal, anti-template
 
 ### 4. MoMA - Gallery-Quality Welcome
 **Subject:** Welcome from MoMA!
@@ -119,7 +113,7 @@ Tags: dtc, food, bold-color, cultural-design, product-launch
 
 ---
 
-## Newsletters (9 emails)
+## Newsletters (7 emails)
 
 ### 16. Patagonia - Purpose-Driven Newsletter
 **Subject:** Running gear for winter's worst
@@ -155,23 +149,11 @@ Tags: outdoor, brand-voice, personality, playful
 [Source](https://blog.hubspot.com/marketing/email-design-templates-and-inspiration) | Screenshot available
 Tags: texture, limited-palette, bold-color, finance
 
-### 21. Absolut - Wall-to-Wall Electric Blue
-**Why it's special:** Electric blue from top to bottom with big, punchy typography. Pure brand consistency. The email IS Absolut. No compromise on identity. Unmistakable at inbox scan speed.
-**What to steal:** Own a color. Use it everywhere. Your email should be recognizable at a glance without reading a single word.
-[Source](https://www.superside.com/blog/email-design-examples)
-Tags: bold-color, typography, brand-consistency, monochrome
-
 ### 22. Tracksmith - CEO Letter as Newsletter
 **Why it's special:** Reads like a personal letter from a fellow runner, not a brand. Narrative-driven, storytelling over sales. Builds deep emotional connection through authentic voice. The CEO as newsletter personality.
 **What to steal:** Have a human write your newsletter, not a marketing team. Personal letters outperform designed templates for building loyalty.
 [Source](https://www.campaignmonitor.com/blog/email-marketing/the-15-best-email-newsletter-examples-weve-ever-seen/)
 Tags: ceo-letter, storytelling, running, authentic-voice
-
-### 23. The Cut - Illustrations Instead of Photography
-**Why it's special:** Quirky custom illustrations instead of stock photography. Brain-friendly simplicity with personality. Proof that newsletters don't need photos to be visually engaging. Illustration as differentiation.
-**What to steal:** Custom illustration can differentiate your newsletter from every other photo-heavy email. Less realistic, more memorable.
-[Source](https://www.superside.com/blog/email-design-examples)
-Tags: editorial, illustration, personality, media
 
 ### 55. Liquid Death - Punk Rock Water Newsletter
 **Why it's special:** Canned water brand with heavy metal and punk aesthetics. Skull imagery, dark colors, edgy typography. Signup promises subscribers will be 'brainwashed by Liquid Death marketing through rare (but hilarious) emails.' Intentionally anti-corporate in the most sterile product category. Darkly humorous content. Proves even the most boring product can have the most distinctive email identity.
@@ -266,7 +248,7 @@ Tags: dtc, food, founder-story, transactional, asian-american
 
 ---
 
-## Promotional & Sales (9 emails)
+## Promotional & Sales (8 emails)
 
 ### 34. Feastables - Interactive Trivia Game Email
 **Why it's special:** Interactive trivia built with Spellbound.io directly in the email. Different flow screens based on user clicks. Encouraged email re-opens (unheard of). Gamification that actually works in email.
@@ -313,12 +295,6 @@ Tags: product-as-design, clever-copy, home, color
 **What to steal:** Strip your header to the essentials. If your product photography is strong, let it dominate. White space equals premium.
 [Source](https://www.klaviyo.com/blog/email-design-examples) | Screenshot available
 Tags: minimalist, beauty, luxury, white-space, brand-first
-
-### 48. Function of Beauty - Handwritten Apology to Your Hair
-**Why it's special:** A handwritten apology letter addressed to the subscriber's hair. Breaks every email design convention. The handwritten aesthetic makes it impossible to scroll past. Addresses pain points through unique visual storytelling.
-**What to steal:** Break format completely. A handwritten-style email stands out against every polished template in the inbox. Address the problem, not the product.
-[Source](https://www.drip.com/blog/best-email-marketing-examples)
-Tags: handwritten, creative-format, beauty, unconventional
 
 ### 54. Frank Body - First-Person Brand Character Emails
 **Subject:** A double shot of caffeine for your booty
@@ -407,14 +383,14 @@ Tags: australian, minimalist, luxury, beauty, whitespace
 
 | Category | Count |
 |----------|-------|
-| Welcome & Onboarding | 8 |
+| Welcome & Onboarding | 7 |
 | Product Launches | 8 |
-| Newsletters | 9 |
+| Newsletters | 7 |
 | Cart Abandonment & Win-Back | 7 |
 | Transactional | 5 |
-| Promotional & Sales | 9 |
+| Promotional & Sales | 8 |
 | Brand & Storytelling | 11 |
-| **Total** | **57** |
+| **Total** | **53** |
 
 ## Australian Brands in the Collection
 

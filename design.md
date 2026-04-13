@@ -20,13 +20,12 @@ so your AI understands *why* each design works, not just *what* it looks like.
 
 ---
 
-## Quick Reference (57 emails)
+## Quick Reference (53 emails)
 
 | # | Brand | Category | Pattern |
 |---|-------|----------|---------|
 | 1 | Figma | Welcome & Onboarding | saas, welcome, onboarding |
 | 2 | Claude (Anthropic) | Welcome & Onboarding | award-winner, ai, saas |
-| 3 | Superhuman | Welcome & Onboarding | plain-text, onboarding, saas |
 | 4 | MoMA | Welcome & Onboarding | culture, elegant, typography |
 | 5 | Lyka | Welcome & Onboarding | dtc, pets, personalization |
 | 6 | Headspace | Welcome & Onboarding | wellness, illustration, onboarding |
@@ -44,9 +43,7 @@ so your AI understands *why* each design works, not just *what* it looks like.
 | 18 | ARMRA | Newsletters | educational, health, deep-dive |
 | 19 | Howler Brothers | Newsletters | outdoor, brand-voice, personality |
 | 20 | Collaborative Fund | Newsletters | texture, limited-palette, bold-color |
-| 21 | Absolut | Newsletters | bold-color, typography, brand-consistency |
 | 22 | Tracksmith | Newsletters | ceo-letter, storytelling, running |
-| 23 | The Cut | Newsletters | editorial, illustration, personality |
 | 24 | Tuft & Needle | Cart Abandonment & Win-Back | cart-abandonment, objection-handling, email-sequence |
 | 25 | Alo Yoga | Cart Abandonment & Win-Back | cart-abandonment, scarcity, fomo |
 | 26 | Liquor Loot | Cart Abandonment & Win-Back | cart-abandonment, witty-copy, subject-line |
@@ -71,7 +68,6 @@ so your AI understands *why* each design works, not just *what* it looks like.
 | 45 | Warby Parker | Brand & Storytelling | storytelling, origin-story, transparency |
 | 46 | Dior | Brand & Storytelling | luxury, fashion, editorial |
 | 47 | Resy | Brand & Storytelling | year-in-review, data-viz, personalization |
-| 48 | Function of Beauty | Promotional & Sales | handwritten, creative-format, beauty |
 | 49 | Beardbrand | Cart Abandonment & Win-Back | re-engagement, personalization, data-driven |
 | 50 | MONA (Museum of Old and New Art) | Brand & Storytelling | australian, museum, irreverent |
 | 51 | Pangaia | Brand & Storytelling | sustainable, fashion, earth-tones |
@@ -103,14 +99,6 @@ so your AI understands *why* each design works, not just *what* it looks like.
 - **Outcome:** RGE 2025 Award Winner - Welcome Email category
 - **Tags:** award-winner, ai, saas, branding
 - **Source:** [Claude (Anthropic)](https://reallygoodemails.com/2025-email-awards)
-
-### 3. Superhuman - Plain-Text Onboarding Series
-
-- **Use case:** Onboarding Sequence email
-- **Why it converts:** Deliberately uses plain text instead of HTML. One email per day teaching a single feature. Feels like getting a note from a friend, not a marketing machine. Better deliverability too.
-- **Steal this:** Sometimes the best design is no design. Plain text can outperform polished HTML when the goal is trust and personal connection.
-- **Tags:** plain-text, onboarding, saas, personal, anti-template
-- **Source:** [Superhuman](https://www.iteratorshq.com/blog/superhuman-onboarding-the-early-stage-saas-guide-to-unbeatable-client-experiences/)
 
 ### 4. MoMA - Gallery-Quality Welcome
 
@@ -276,14 +264,6 @@ so your AI understands *why* each design works, not just *what* it looks like.
 - **Tags:** texture, limited-palette, bold-color, finance
 - **Source:** [Collaborative Fund](https://blog.hubspot.com/marketing/email-design-templates-and-inspiration)
 
-### 21. Absolut - Wall-to-Wall Electric Blue
-
-- **Use case:** Brand Newsletter email
-- **Why it converts:** Electric blue from top to bottom with big, punchy typography. Pure brand consistency. The email IS Absolut. No compromise on identity. Unmistakable at inbox scan speed.
-- **Steal this:** Own a color. Use it everywhere. Your email should be recognizable at a glance without reading a single word.
-- **Tags:** bold-color, typography, brand-consistency, monochrome
-- **Source:** [Absolut](https://www.superside.com/blog/email-design-examples)
-
 ### 22. Tracksmith - CEO Letter as Newsletter
 
 - **Use case:** CEO Letter email
@@ -291,14 +271,6 @@ so your AI understands *why* each design works, not just *what* it looks like.
 - **Steal this:** Have a human write your newsletter, not a marketing team. Personal letters outperform designed templates for building loyalty.
 - **Tags:** ceo-letter, storytelling, running, authentic-voice
 - **Source:** [Tracksmith](https://www.campaignmonitor.com/blog/email-marketing/the-15-best-email-newsletter-examples-weve-ever-seen/)
-
-### 23. The Cut - Illustrations Instead of Photography
-
-- **Use case:** Editorial Newsletter email
-- **Why it converts:** Quirky custom illustrations instead of stock photography. Brain-friendly simplicity with personality. Proof that newsletters don't need photos to be visually engaging. Illustration as differentiation.
-- **Steal this:** Custom illustration can differentiate your newsletter from every other photo-heavy email. Less realistic, more memorable.
-- **Tags:** editorial, illustration, personality, media
-- **Source:** [The Cut](https://www.superside.com/blog/email-design-examples)
 
 ### 55. Liquid Death - Punk Rock Water Newsletter
 
@@ -480,14 +452,6 @@ so your AI understands *why* each design works, not just *what* it looks like.
 - **Steal this:** Strip your header to the essentials. If your product photography is strong, let it dominate. White space equals premium.
 - **Tags:** minimalist, beauty, luxury, white-space, brand-first
 - **Source:** [Fenty Beauty](https://www.klaviyo.com/blog/email-design-examples)
-
-### 48. Function of Beauty - Handwritten Apology to Your Hair
-
-- **Use case:** Promotional email
-- **Why it converts:** A handwritten apology letter addressed to the subscriber's hair. Breaks every email design convention. The handwritten aesthetic makes it impossible to scroll past. Addresses pain points through unique visual storytelling.
-- **Steal this:** Break format completely. A handwritten-style email stands out against every polished template in the inbox. Address the problem, not the product.
-- **Tags:** handwritten, creative-format, beauty, unconventional
-- **Source:** [Function of Beauty](https://www.drip.com/blog/best-email-marketing-examples)
 
 ### 54. Frank Body - First-Person Brand Character Emails
 
