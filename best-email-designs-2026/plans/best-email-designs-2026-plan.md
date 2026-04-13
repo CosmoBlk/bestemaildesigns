@@ -14,6 +14,18 @@
 
 A personally curated collection of the 50+ best email designs of 2026. Not templates. Not generic "best practices." The actual emails that are beautiful, different, high-converting, and non-boring, with notes on why each one is special.
 
+### The AI Layer (What Makes This Different)
+
+The Figma file includes **LLM-optimised design notes** on every email. Structured so an AI agent can actually learn *why* each design works: use case, design decisions, outcomes, what to steal. This isn't just a mood board. It's a training dataset for better email design.
+
+**Companion file: `design.md`** - a standalone, agent-readable document that any AI (Claude, Cursor, ChatGPT) can ingest to immediately produce better email designs. Contains every email with structured notes: use case, design rationale, what makes it convert, and when to use this pattern.
+
+- Linked prominently from the Figma file (cover page + every section header)
+- Linked from the landing page on nitrosend.com (separate CTA: "Give this to your AI")
+- Useful for George/Nitrosend's own template design AND useful for anyone else doing email
+
+**This is the real hook:** "Give this file to your AI and it will design better emails." The Figma is for humans to browse. The `design.md` is for agents to learn from.
+
 ### Working Title Options (workshop these)
 
 **Option A:** "50+ Email Designs That Actually Convert (2026)"
@@ -104,6 +116,19 @@ Figma file has "Made with Nitrosend" branding + beta invite CTA
   - "OPEN LINK" button on each to see the live email or source
 - [ ] Add branding page: "Curated by George Hartley" + nitrosend logo + beta CTA
 - [ ] Add final page: "Want AI to build emails this good? Try nitrosend — nitrosend.com"
+
+**Phase 3.5: design.md Companion File (Claude builds)**
+- [ ] Generate `design.md` from curated-emails.json - structured, agent-readable format
+- [ ] Each email entry includes: brand, use case, design rationale, what converts, what to steal, when to use this pattern
+- [ ] Add clear section headers and categories so an agent can quickly find relevant patterns
+- [ ] Link to design.md from the Figma cover page and every section header
+- [ ] Link to design.md from the landing page as a separate CTA ("Give this to your AI")
+
+**Phase 3.6: Screen Share Walkthrough Video (George records)**
+- [ ] George records a screen share walking through the Figma collection
+- [ ] Show how to browse it, how to use it with Claude/AI, the design.md file
+- [ ] Keep it authentic, 2-3 minutes, just talking through the highlights
+- [ ] Embed on landing page above the fold (where the GIF/video slot currently is)
 
 **Phase 4: GIF/Video**
 - [ ] **Option A (fast, do today):** Create a GIF from 15-20 of the best design screenshots, rapid-fire cuts (0.3s each). Use ezgif.com or similar. Good enough for launch.
@@ -267,11 +292,14 @@ Let me know.
 │                                                              │
 │  [Preview grid: 4-6 of the best designs, small thumbnails]  │
 │                                                              │
-│  [GIF/Video: rapid-fire flash of all 50+ designs]           │
+│  [Screen share walkthrough video - George walking through    │
+│   the collection, showing how to use it with AI]            │
 │                                                              │
 │  World-leading brands. Highest-converting campaigns.         │
 │  Notes on what makes each one special.                       │
 │  Give the link to your AI and level up every email you send. │
+│                                                              │
+│  [CTA: "Give this to your AI" → links to design.md]        │
 │                                                              │
 │  ┌──────────────────────────────────────────────┐           │
 │  │  [your@email.com]  [Get the collection free] │           │
@@ -281,6 +309,11 @@ Let me know.
 │  Creator of the Email Marketing Bible (908 sources, 44       │
 │  experts). Previously: SmartrMail (12K customers, 6B         │
 │  emails, acquired 2022).                                     │
+│                                                              │
+│  ─────────────────────────────────────────────               │
+│                                                              │
+│  [GIF: rapid-fire flash of all 50+ email designs]           │
+│  (Further down the page - visual punch, social proof)       │
 │                                                              │
 │  ─────────────────────────────────────────────               │
 │  Powered by nitrosend · Faster email for builders            │
@@ -320,7 +353,9 @@ Let me know.
 | Identify 50 influencer DM targets | ✅ | Sends DMs |
 | Draft influencer DMs (Higgsfield style) | ✅ | Sends |
 | Draft Whop listing | ✅ | Posts |
-| Build Figma file | Provides structure + content | ✅ Builds |
+| Build Figma file (with LLM design notes) | Provides structure + content + design notes | ✅ Builds |
+| Create design.md companion file | ✅ Generates from curation data | Reviews |
+| Record screen share walkthrough video | | ✅ Records |
 | Create GIF from screenshots | Can script it | ✅ or outsource |
 | Commission video editor (Fiverr/Upwork) | Drafts brief | ✅ Posts job |
 | Build landing page | Can draft HTML | ✅ Deploys |

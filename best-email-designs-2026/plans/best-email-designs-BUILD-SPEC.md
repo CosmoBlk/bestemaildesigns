@@ -6,27 +6,25 @@
 
 ## Status Tracker (updated by Claude Code)
 
-**Last updated:** 2026-03-31
+**Last updated:** 2026-04-08
 
 | Phase | Status | Notes |
 |-------|--------|-------|
-| 1. Research & Curate | DONE | 57 emails curated from 254 candidates. curated-emails.json + curated-emails.md complete. |
-| 2. Figma File | IN PROGRESS | File key: R0TGDVXqjQNIdVI4DxCbKM, node 99:3. Needs screenshots + text formatting + links. |
-| 3. Landing Page | DEPLOYED | nitrosend.com/best-email-designs live (unlisted). PR merged: nitrosend/web#3. Uses nitrosend public API for email capture. |
-| 4. Nitrosend Email Flow | NOT STARTED | Need to set up automated welcome email with Figma link. |
-| 5. Twitter/X Assets | IN PROGRESS | Remotion scaffold in email-showcase/. 8 screenshots downloaded, capturing more. |
-| 6. Influencer Outreach | DONE | designer-outreach.json + influencer-targets.json ready. whop-listing.md drafted. |
-| 7. OG Image & Assets | PARTIAL | OG image created (public/og-best-email-designs.png). Twitter card done. GIF pending screenshots. |
+| 1. Research & Curate | DONE ✅ | 57 emails curated from 254 candidates. George approved 2026-04-02. |
+| 2. Figma File - Structure | DONE ✅ | All 57 cards built across 7 categories. Cover + Collection + Final CTA pages. |
+| 2b. Figma - Screenshots | DONE ✅ | All 57 screenshots on disk. George to drag into Figma manually. |
+| 2c. Figma - LLM Design Notes | DONE ✅ | All 57 cards have orange "AI DESIGN NOTES" with use case, pattern, best for |
+| 2d. Figma - design.md Links | DONE ✅ | Cover page CTA + all 7 category headers linked |
+| 3. Landing Page | LIVE ✅ | nitrosend.com/best-email-designs. Email capture form wired to Nitrosend list 45 (public key). design.md CTA section added. Video slot removed until George records. |
+| 3.5 design.md Companion | DONE ✅ | 612 lines, 45K chars. All 57 emails structured for AI. Saved to design.md |
+| 3.6 Screen Share Video | NOT STARTED | George records walkthrough of collection |
+| 4. Nitrosend Email Flow | DONE ✅ | Flow 134 on george@nitrosend.com. Trigger: list_add to list 45. Investor-update design. Figma link + design.md link + category table + Nitrosend soft plug. Template 233. Preflight passed, spam score 2 (low). Draft, awaiting activation. |
+| 4b. Follow-up Email | NOT STARTED | 2-day follow-up: "How are you using the collection?" + Nitrosend beta CTA |
+| 5. Twitter/X Assets | NOT STARTED | All 57 screenshots ready for GIF. Unblocked. |
+| 6. Influencer Outreach | NOT STARTED | Add UTM/source attribution for tracking influencer referrals |
+| 7. OG Image & Assets | NOT STARTED | All 57 screenshots ready. Unblocked. |
 
-**Screenshots:** 8 of 57 downloaded to assets/screenshots/. ReallyGoodEmails blocks direct downloads (403). Using Playwright headless browser to capture remaining from RGE pages. 34 emails have no direct screenshot URL — need to source from blog posts or capture manually.
-
-**GitHub:** Committed to https://github.com/CosmoBlk/bestemaildesigns (main branch).
-
-**Web repo:** Landing page at nitrosend/web on main branch (PR #3 merged). Deployed via Vercel at nitrosend.com/best-email-designs (200 OK). Not linked from nav. Uses nitrosend public API key for email capture, list_id 45.
-
-**Figma MCP:** Consistently returning net::ERR_FAILED despite Figma desktop running. May need restart or reconnection. File key: R0TGDVXqjQNIdVI4DxCbKM, target node: 99:3.
-
-**To resume:** Run `let's continue the best-email-designs build` and Claude will read this spec + memory file to pick up where it left off.
+**To resume:** Run `let's continue the best-email-designs build` and Claude will read this spec + memory file to pick up where it left off. Check research-*.json files for completed research, curated-emails.json for final curation.
 
 ---
 
@@ -146,6 +144,7 @@ For each curated email, we need a high-quality screenshot. Strategy:
 - Subtitle: "Curated by George Hartley"
 - Branding block: "Made by George" with links to X (@gthartley) and LinkedIn
 - CTA: "Need AI-powered email? nitrosend.com"
+- **Link to design.md:** "Give this to your AI → [design.md URL]" (prominent, separate from Figma CTA)
 - Nitrosend logo/wordmark
 
 **Page 2: Main Collection**
@@ -164,10 +163,23 @@ For each curated email, we need a high-quality screenshot. Strategy:
 │ │   (600px wide)        │  Why it's special.    │
 │ │                       │  What to steal.       │
 │ │                       │                       │
-│ └───────────────────────┘                       │
+│ └───────────────────────┘  LLM Design Notes:    │
+│                             Use case: [type]     │
+│                             Pattern: [pattern]   │
+│                             Outcome: [data]      │
 │            ⊕ OPEN LINK                          │
 └─────────────────────────────────────────────────┘
 ```
+
+**LLM-Optimised Design Notes (on every card):**
+Each email card includes structured notes designed for AI training/reference:
+- **Use case:** When to use this pattern (e.g. "SaaS product launch to existing users")
+- **Design pattern:** The core design decision (e.g. "dark mono + single accent CTA")
+- **Why it converts:** The behavioural/design reasoning (e.g. "contrast isolation drives 100% attention to CTA")
+- **Outcome:** Conversion data if available, or qualitative signal
+- **Steal this:** One-line actionable takeaway an AI can directly apply
+
+These notes are duplicated in the companion `design.md` file for agent consumption.
 
 - Card background: dark grey (#2a2a2a)
 - Text: white (#ffffff) for brand name, light grey (#b0b0b0) for description
@@ -232,6 +244,62 @@ The Figma MCP `use_figma` tool executes JavaScript with access to the `figma` gl
 
 ---
 
+## Phase 3.5: design.md Companion File
+
+### Goal
+Create an agent-readable companion document that any AI can ingest to immediately produce better email designs. This is the "give this to your AI" file.
+
+### Output: `design.md`
+
+Structure:
+```markdown
+# Best Email Designs 2026 - AI Design Reference
+
+> Feed this file to Claude, Cursor, ChatGPT, or any AI to level up your email designs.
+> Curated by George Hartley (SmartrMail, 6B emails). Powered by Nitrosend.
+
+## How to Use This File
+- Give it to your AI when designing emails
+- Reference specific patterns by category or use case
+- Each entry includes the design rationale so your AI understands *why*, not just *what*
+
+## Welcome & Onboarding
+
+### 1. Linear - Product Launch
+- **Use case:** SaaS product launch to existing users
+- **Design pattern:** Dark mono background, single-column manifesto layout, one accent-colour CTA
+- **Why it converts:** Contrast isolation. The only colour on the page is the CTA button. Zero competing elements. Reads like a letter, not a marketing email.
+- **What to steal:** Single-colour CTA against monochrome. Manifesto-style copy over feature bullets. Let whitespace do the work.
+- **Outcome:** [data if available]
+- **Best for:** SaaS, developer tools, premium brands
+
+[... repeat for all 50+ emails ...]
+```
+
+### Where to Link It
+1. **Figma cover page:** "Give this to your AI → [design.md URL]"
+2. **Figma section headers:** Small link under each category header
+3. **Landing page:** Separate CTA block below the email capture form
+4. **Delivery email:** Include as a second link alongside the Figma link
+
+### Build Process
+- Generate from `curated-emails.json` with enriched LLM design notes
+- Add instructional header so agents know how to use it
+- Host at `nitrosend.com/best-email-designs/design.md` (or as a raw file download)
+
+---
+
+## Phase 3.6: Screen Share Walkthrough Video
+
+George records a screen share walking through the collection:
+- Browse the Figma file, highlight a few standout designs
+- Show how to give the design.md to Claude/AI
+- Demo the "before and after" of AI email design with and without the reference
+- Keep it authentic, 2-3 minutes, conversational
+- Embed on the landing page above the fold (hero area)
+
+---
+
 ## Phase 3: Landing Page — nitrosend.com/best-email-designs
 
 ### Page Spec
@@ -247,7 +315,8 @@ George deploys this on nitrosend.com. Claude Code should output a complete, self
 │                                                              │
 │  [Preview grid: 2x3 thumbnails of best designs]             │
 │                                                              │
-│  [GIF/Video embed: rapid-fire flash of all 50+ designs]     │
+│  [SCREEN SHARE VIDEO: George walking through the            │
+│   collection and showing how to use it with AI]             │
 │                                                              │
 │  World-leading brands. Highest-converting campaigns.         │
 │  Notes on what makes each one special and what to steal.     │
@@ -257,10 +326,20 @@ George deploys this on nitrosend.com. Claude Code should output a complete, self
 │  │  [your@email.com]  [Get the collection free] │           │
 │  └──────────────────────────────────────────────┘           │
 │                                                              │
+│  ┌──────────────────────────────────────────────┐           │
+│  │  Give this to your AI → [design.md link]     │           │
+│  │  Agent-readable design reference file         │           │
+│  └──────────────────────────────────────────────┘           │
+│                                                              │
 │  Curated by George Hartley                                   │
 │  Creator of the Email Marketing Bible (908 sources,          │
 │  44 experts). Previously: SmartrMail (12K customers,         │
 │  6B emails, acquired 2022).                                 │
+│                                                              │
+│  ─────────────────────────────────────────────               │
+│                                                              │
+│  [GIF: rapid-fire flash of all 50+ email designs]           │
+│  (Visual punch - emails flicking by quickly)                │
 │                                                              │
 │  ─────────────────────────────────────────────               │
 │  Powered by nitrosend · Faster email for builders            │
@@ -477,11 +556,22 @@ Use Python + PIL/Pillow to composite these from the downloaded screenshots.
 
 4. BUILD FIGMA FILE
    ├── Set up pages, styles, colour variables
-   ├── Build cover page with branding
-   ├── Build category columns
-   ├── Loop through curated-emails.json: create cards with screenshots + text
+   ├── Build cover page with branding + design.md link
+   ├── Build category columns with section header design.md links
+   ├── Loop through curated-emails.json: create cards with screenshots + text + LLM design notes
    ├── Build final CTA page
    └── Verify layout and test
+
+4.5 CREATE design.md COMPANION FILE
+   ├── Generate from curated-emails.json with enriched LLM design notes
+   ├── Add instructional header for agents
+   ├── Structure by category with consistent fields per entry
+   └── Host at nitrosend.com/best-email-designs/design.md
+
+4.6 GEORGE RECORDS SCREEN SHARE VIDEO
+   ├── Walk through Figma collection
+   ├── Demo giving design.md to AI
+   └── 2-3 min, authentic, conversational
 
 5. CREATE ASSETS
    ├── Generate GIF from top 15-20 screenshots
@@ -525,6 +615,7 @@ nitrosend/
 ├── best-email-designs-BUILD-SPEC.md  # THIS FILE — build instructions
 ├── curated-emails.json               # Research output: all 50+ emails with metadata
 ├── curated-emails.md                 # Human-readable curation for George to review
+├── design.md                         # Agent-readable design reference (the "give this to your AI" file)
 ├── influencer-targets.json           # 50 influencer DM targets
 ├── screenshots/                      # Downloaded email screenshots
 │   ├── 001-linear-product-launch.png
