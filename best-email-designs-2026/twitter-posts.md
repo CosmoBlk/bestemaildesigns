@@ -4,7 +4,7 @@
 
 I spent 10 years building email tools (SmartrMail: 12K customers, 6B emails, acquired 2022).
 
-These are the 57 emails I'd study if I were starting from scratch.
+These are the 47 emails I'd study if I were starting from scratch.
 
 Free Figma file. Every screenshot. Notes on why each one works and what to steal.
 
@@ -18,11 +18,11 @@ nitrosend.com/best-email-designs
 
 Categories inside:
 
-- Welcome & Onboarding (8)
-- Product Launches (8)
-- Newsletters (9)
-- Cart & Win-Back (7)
-- Transactional (5)
+- Welcome & Onboarding (7)
+- Product Launches (6)
+- Newsletters (6)
+- Cart & Win-Back (6)
+- Transactional (2)
 - Promotional & Sales (9)
 - Brand & Storytelling (11)
 
@@ -34,7 +34,7 @@ Every email has: screenshot, why it works, what to steal, AI design notes.
 
 The real unlock: design.md
 
-It's the entire collection structured for AI agents. 57 emails with use cases, patterns, subject lines, and "steal this" notes.
+It's the entire collection structured for AI agents. 47 emails with use cases, patterns, subject lines, and "steal this" notes.
 
 Drop it into Claude, Cursor, or ChatGPT. Ask it to redesign your welcome sequence based on the best examples.
 
@@ -56,9 +56,9 @@ nitrosend.com
 
 ## Alt: Short Solo Post (no thread)
 
-57 emails you've probably never seen before.
+47 emails you've probably never seen before.
 
-Hand-curated from Apple, Stripe, Liquid Death, Patagonia, and 53 others.
+Hand-curated from Apple, Stripe, Liquid Death, Patagonia, and 43 others.
 
 Free Figma file + AI-readable design.md.
 
@@ -70,7 +70,7 @@ nitrosend.com/best-email-designs
 
 New: design.md
 
-57 of the best email designs of 2026, structured for LLMs.
+47 of the best email designs of 2026, structured for LLMs.
 
 Drop it into Claude. Ask it to redesign your onboarding emails based on what Apple, Stripe, and Liquid Death are doing.
 
@@ -82,6 +82,6 @@ github.com/Nitrosend/best-email-designs-2026/blob/main/design.md
 
 ## Assets to attach
 
-- **Primary post:** best-emails-twitter.gif (rapid-fire animation of all 57 emails)
+- **Primary post:** best-emails-twitter.gif (rapid-fire animation of all 47 emails)
 - **Thread/solo posts:** og-best-email-designs.png (1200x630 social card)
 - Both saved at: /Users/georgehartley/nitrosend/Best Email Designs/assets/

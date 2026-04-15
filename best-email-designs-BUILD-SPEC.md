@@ -1,7 +1,7 @@
 # Best Email Designs 2026 — Claude Code Build Spec
 
 **Purpose:** Complete build instructions for Claude Code to execute. Covers: research/curation, Figma file build, landing page, email flow, Twitter assets, influencer outreach.
-**Launch:** Tuesday 31 March 2026
+**Launch:** Wednesday 15 April 2026 (slipped from 31 March target)
 **API keys:** All in `.env` in this directory. Load with `dotenv` or equivalent.
 
 ## Status Tracker (updated by Claude Code)

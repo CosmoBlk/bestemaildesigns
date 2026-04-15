@@ -2,7 +2,7 @@
 
 ## What we made
 
-We hand-curated the 57 best email designs of 2026 and put them into a free Figma file. Human taste, not an algorithm. Each email includes:
+We hand-curated the 47 best email designs of 2026 and put them into a free Figma file. Human taste, not an algorithm. Each email includes:
 
 - Full screenshot of the design
 - Notes on why it works and what makes it effective

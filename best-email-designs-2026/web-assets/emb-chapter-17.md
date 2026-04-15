@@ -1,6 +1,6 @@
 ---
 title: "Best Email Designs of 2026"
-description: "57 hand-curated email designs from the world's best brands. Anti-slop. Unconventional. Deep cuts you won't find in a listicle. Each with notes on why it works and what to steal."
+description: "47 hand-curated email designs from the world's best brands. Anti-slop. Unconventional. Deep cuts you won't find in a listicle. Each with notes on why it works and what to steal."
 sidebar:
   order: 17
   label: "17. Best Email Designs 2026"
@@ -9,9 +9,9 @@ sidebar:
     variant: tip
 ---
 
-This isn't a roundup of "top brands with good emails." It's 57 hand-curated emails, chosen with human taste, not an algorithm. Emails that break conventions, convert at abnormal rates, or do something you've genuinely never seen before.
+This isn't a roundup of "top brands with good emails." It's 47 hand-curated emails, chosen with human taste, not an algorithm. Emails that break conventions, convert at abnormal rates, or do something you've genuinely never seen before.
 
-I spent a decade building email tools. SmartrMail had 12K customers and sent 6 billion emails before it was acquired in 2022. I've seen a lot of email. Most of it is slop. These 57 are the opposite.
+I spent a decade building email tools. SmartrMail had 12K customers and sent 6 billion emails before it was acquired in 2022. I've seen a lot of email. Most of it is slop. These 47 are the opposite.
 
 **[Download the full Figma file with screenshots and notes](https://www.figma.com/design/R0TGDVXqjQNIdVI4DxCbKM)** or keep reading for the highlights.
 
@@ -20,7 +20,7 @@ I spent a decade building email tools. SmartrMail had 12K customers and sent 6 b
 There are two ways to get value from this collection:
 
 1. **Read it yourself.** Study the "why it's special" and "what to steal" notes. Apply the patterns to your own emails.
-2. **Give it to your AI.** Paste the Figma link into Claude, ChatGPT, or Cursor with a prompt like: "Here are 57 examples of emails that actually convert. Use these as reference when building my welcome sequence." Your AI will produce dramatically better emails when it has genuinely good examples to work from.
+2. **Give it to your AI.** Paste the Figma link into Claude, ChatGPT, or Cursor with a prompt like: "Here are 47 examples of emails that actually convert. Use these as reference when building my welcome sequence." Your AI will produce dramatically better emails when it has genuinely good examples to work from.
 
 ---
 
@@ -134,7 +134,7 @@ Also in this section: **Pangaia** (earth tones from materials), **Glossier** (hi
 
 ---
 
-## Key Patterns Across All 57
+## Key Patterns Across All 47
 
 After studying every email in this collection, a few patterns emerge:
 
@@ -150,4 +150,4 @@ After studying every email in this collection, a few patterns emerge:
 
 ---
 
-*This chapter is a companion to the [57 Best Email Designs Figma file](https://www.figma.com/design/R0TGDVXqjQNIdVI4DxCbKM). The Figma file includes screenshots, source URLs, and visual cards for every email listed above. You can also get the collection at [nitrosend.com/best-email-designs](https://nitrosend.com/best-email-designs).*
+*This chapter is a companion to the [47 Best Email Designs Figma file](https://www.figma.com/design/R0TGDVXqjQNIdVI4DxCbKM). The Figma file includes screenshots, source URLs, and visual cards for every email listed above. You can also get the collection at [nitrosend.com/best-email-designs](https://nitrosend.com/best-email-designs).*

@@ -20,7 +20,7 @@ so your AI understands *why* each design works, not just *what* it looks like.
 
 ---
 
-## Quick Reference (53 emails)
+## Quick Reference (47 emails)
 
 | # | Brand | Category | Pattern |
 |---|-------|----------|---------|

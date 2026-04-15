@@ -2,11 +2,11 @@
 
 ## Main Post
 
-53 emails you've probably never seen before.
+47 emails you've probably never seen before.
 
 I'm building nitrosend, an AI-native email platform. To make our designer AI actually good, I needed to train it on emails that are actually good. Not templates. Not "best practices." The real thing.
 
-So I went deep. A decade of building email tools (SmartrMail, 6B emails, acquired 2022) and I hand-curated the 53 best email designs of 2026.
+So I went deep. A decade of building email tools (SmartrMail, 6B emails, acquired 2022) and I hand-curated the 47 best email designs of 2026.
 
 Human taste. No algorithm. Every email chosen because a human looked at it and said "that's special."
 
@@ -39,11 +39,11 @@ Anti-template. Anti-slop. Anti-boring. Human taste in an age of algorithmic same
 What's in the collection:
 
 Welcome & Onboarding (7)
-Product Launches (8)
-Newsletters (7)
-Cart & Win-Back (7)
-Transactional (5)
-Promotional & Sales (8)
+Product Launches (6)
+Newsletters (6)
+Cart & Win-Back (6)
+Transactional (2)
+Promotional & Sales (9)
 Brand & Storytelling (11)
 
 Every email has "why it's special" and "what to steal."
@@ -59,13 +59,13 @@ Credit where it's due. The people behind these emails:
 @karrisaarinen (Linear - CEO who designs his own changelogs)
 @lil_dill (Stripe - the receipt everyone copies)
 
-And 38 more. Full credits in the collection.
+And 43 more. Full credits in the collection.
 
 ## Reply 4 (AI angle)
 
 The real play: give the Figma file to Claude or ChatGPT.
 
-"Here are 53 examples of emails that actually convert. Use these as reference when building my welcome sequence."
+"Here are 47 examples of emails that actually convert. Use these as reference when building my welcome sequence."
 
 Your AI will produce dramatically better emails when it has genuinely good examples to work from. Not templates. Real emails from real brands.
 
@@ -79,9 +79,9 @@ nitrosend.com/best-email-designs
 
 XXX downloads in 48 hours. Did not expect this.
 
-The 53 best email designs of 2026 collection hit a nerve. Turns out people are hungry for human-curated design inspiration in a sea of algorithmic slop.
+The 47 best email designs of 2026 collection hit a nerve. Turns out people are hungry for human-curated design inspiration in a sea of algorithmic slop.
 
-If you missed it: free Figma file with 53 hand-curated emails, notes on what makes each one special, and what to steal for your own brand.
+If you missed it: free Figma file with 47 hand-curated emails, notes on what makes each one special, and what to steal for your own brand.
 
 Free. Link below.
 
@@ -93,7 +93,7 @@ nitrosend.com/best-email-designs
 
 ## LinkedIn Post
 
-53 emails you've probably never seen before.
+47 emails you've probably never seen before.
 
 I'm building nitrosend, an AI-native email platform. The AI writes your emails, builds your flows, optimizes your sends.
 
@@ -105,7 +105,7 @@ I went deeper. Spent weeks doing what algorithms can't: applying human taste. Fi
 
 The collection turned out so good I decided to open-source it.
 
-53 hand-curated emails. Human taste, not algorithmic ranking. Deep cuts. Every one has notes on why it works and what to steal.
+47 hand-curated emails. Human taste, not algorithmic ranking. Deep cuts. Every one has notes on why it works and what to steal.
 
 A few favorites:
 
@@ -117,7 +117,7 @@ Beardbrand re-engages lapsed users with: "Your beard grew 1.5 inches since we la
 
 MONA Tasmania brings dark, irreverent museum branding into email. Custom Emigre fonts, moody palette. One of the few cultural institutions whose emails have genuine personality.
 
-The real move: give the Figma file to Claude or ChatGPT. "Here are 53 examples of emails that actually convert. Use these as reference when building my welcome sequence." Your AI will produce dramatically better emails when it has genuinely good examples to work from.
+The real move: give the Figma file to Claude or ChatGPT. "Here are 47 examples of emails that actually convert. Use these as reference when building my welcome sequence." Your AI will produce dramatically better emails when it has genuinely good examples to work from.
 
 100% free. Link in comments.
 
@@ -127,7 +127,7 @@ The real move: give the Figma file to Claude or ChatGPT. "Here are 53 examples o
 
 The response to this has been wild.
 
-XXX people downloaded the 53 Best Email Designs of 2026 collection in 48 hours. XXX comments. XXX reposts.
+XXX people downloaded the 47 Best Email Designs of 2026 collection in 48 hours. XXX comments. XXX reposts.
 
 A few things I didn't expect:
 
@@ -135,7 +135,7 @@ A few things I didn't expect:
 2. Australian brands punch above their weight. Aesop, Frank Body, Lyka, MONA, Lucy Folk. Small market, disproportionate design quality. Multiple people messaged me to say they'd never heard of these brands.
 3. Transactional emails are the most underrated category. Stripe's 472px receipt. Webflow turning verification into onboarding. The emails with the highest open rates are the ones most companies phone in.
 
-If you missed it: 53 hand-curated emails in a free Figma file. Human taste, no algorithm. Every one has notes on why it works and what to steal.
+If you missed it: 47 hand-curated emails in a free Figma file. Human taste, no algorithm. Every one has notes on why it works and what to steal.
 
 Link in comments.
 
@@ -147,6 +147,6 @@ Hey! Here it is:
 
 nitrosend.com/best-email-designs
 
-Enter your email and you'll get the Figma file with all 53 designs + notes instantly.
+Enter your email and you'll get the Figma file with all 47 designs + notes instantly.
 
 Cheers

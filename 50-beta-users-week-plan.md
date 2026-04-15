@@ -466,7 +466,7 @@ Key wins:
 
 | Asset | Status |
 |-------|--------|
-| 57 email designs curated (design.md) | Done |
+| 47 email designs curated (design.md) | Done |
 | 48 screenshots | Done |
 | Twitter thread drafted (george-tone) | Done (launch-content-wednesday.md) |
 | LinkedIn post drafted (george-tone) | Done (launch-content-wednesday.md) |
@@ -480,7 +480,7 @@ Key wins:
 | emb-research V2 | Pushed (design research) |
 | EMB skill (SKILL.md) V2 | Updated locally |
 | Landing page (nitrosend.com/best-email-designs) | Live |
-| Email flow (form > auto-send) | Flow 134 configured |
+| Email flow (form > auto-send) | Flow 221 live (3-email sequence on list 72) |
 | Whop listing | Live |
 
 ### Nitrosend Accounts
@@ -543,7 +543,7 @@ Key wins:
 | `best-email-designs-2026/influencer-targets.md` | 50 influencer targets with handles and DM templates |
 | `best-email-designs-2026/twitter-posts.md` | Twitter thread variations and follow-up reposts |
 | `twitter-post.md` | Older LinkedIn/Twitter drafts (cleaned, still usable) |
-| `design.md` | The AI-readable 57 email design reference |
+| `design.md` | The AI-readable 47 email design reference |
 | `outreach-targets-frustrated-reviewers.md` | 58 ESP complaint targets (at /Users/georgehartley/nitrosend/) |
 | `twitter-lists-vibe-coders-email-experts.md` | 150 Twitter list candidates (at /Users/georgehartley/nitrosend/) |
 
