@@ -6,25 +6,37 @@
 
 ## Status Tracker (updated by Claude Code)
 
-**Last updated:** 2026-03-31
+**Last updated:** 2026-04-15
 
 | Phase | Status | Notes |
 |-------|--------|-------|
-| 1. Research & Curate | DONE | 57 emails curated from 254 candidates. curated-emails.json + curated-emails.md complete. |
-| 2. Figma File | IN PROGRESS | File key: R0TGDVXqjQNIdVI4DxCbKM, node 99:3. Needs screenshots + text formatting + links. |
-| 3. Landing Page | DEPLOYED | nitrosend.com/best-email-designs live (unlisted). PR merged: nitrosend/web#3. Uses nitrosend public API for email capture. |
-| 4. Nitrosend Email Flow | NOT STARTED | Need to set up automated welcome email with Figma link. |
-| 5. Twitter/X Assets | IN PROGRESS | Remotion scaffold in email-showcase/. 8 screenshots downloaded, capturing more. |
-| 6. Influencer Outreach | DONE | designer-outreach.json + influencer-targets.json ready. whop-listing.md drafted. |
-| 7. OG Image & Assets | PARTIAL | OG image created (public/og-best-email-designs.png). Twitter card done. GIF pending screenshots. |
+| 1. Research & Curate | DONE | 47 emails curated from 254 candidates. curated-emails.json + curated-emails.md complete. |
+| 2. Figma File | DONE | File key: R0TGDVXqjQNIdVI4DxCbKM. 47 cards across 7 categories. All screenshots present, top-aligned CROP. Cards reviewed, weak cards deleted, categories rebalanced. |
+| 3. Landing Page | DEPLOYED + FIXED | nitrosend.com/best-email-designs live. Public contacts endpoint (POST /v1/public/contacts) shipped in API commits 2127fc5 (initial fix) + 66817a7 (Codex security follow-up: anti-enumeration, idempotent on existing contacts). List 45 (contact@ account). Production deploy pending. |
+| 4. Nitrosend Email Flow | DONE | Flow 221 (live) on list 72. 3-email sequence with GIF embedded in email 1: (1) Figma link delivery, (2) Claude for Email Skill/EMB day 2, (3) Nitrosend beta ask day 4. Tests sent to georgehartley@gmail.com. |
+| 5. Twitter/X Assets | DONE | X post and LinkedIn post drafted. GIF created (best-emails-collection.gif, 4.8MB, 45 frames @ 0.5s) and hosted on Nitrosend CDN. |
+| 6. Influencer Outreach | DONE | 34 personalised cold outreach drafts created in Gmail (georgehartley@gmail.com) covering 34 of 47 brands. 8 contacts via LinkedIn only, 5 brands skipped. brand-outreach.md has full text. |
+| 7. OG Image & Assets | DONE | OG image created. Twitter card done. Collection GIF live on CDN. |
+| 8. EMB Update Email | DONE | Campaign 120 on george@ account, template 464. Subject: "47 emails your AI should study". Dark theme, IBM Plex Mono, EMB orange, GIF embedded. Test sent. |
+| 9. Nitrosend Product Update | DONE | Campaign 121 on contact@ account, template 465. Test sent. |
+| 10. Learning doc | DONE | learning.md created with 7 prioritised API/MCP improvement recommendations from running this launch through the agent. Codex-reviewed. |
 
-**Screenshots:** 8 of 57 downloaded to assets/screenshots/. ReallyGoodEmails blocks direct downloads (403). Using Playwright headless browser to capture remaining from RGE pages. 34 emails have no direct screenshot URL — need to source from blog posts or capture manually.
+**Figma file:** 47 cards total. All screenshots present and top-aligned. Weak cards removed (Haoma, Webflow, MoMA, Starbucks, Patagonia Newsletter, duplicate Fly By Jing). Omsom moved to Promotional, Alo Yoga moved to Welcome. Lucy Folk, MONA, Pangaia moved to top of Brand & Storytelling. Pangaia description rewritten with brand research.
 
-**GitHub:** Committed to https://github.com/CosmoBlk/bestemaildesigns (main branch).
+**GitHub:** Committed to https://github.com/CosmoBlk/bestemaildesigns (main branch). design.md is the AI-readable companion file.
 
-**Web repo:** Landing page at nitrosend/web on main branch (PR #3 merged). Deployed via Vercel at nitrosend.com/best-email-designs (200 OK). Not linked from nav. Uses nitrosend public API key for email capture, list_id 45.
+**Web repo:** Landing page at nitrosend/web on main branch (PR #3 merged). Deployed via Vercel at nitrosend.com/best-email-designs (200 OK). Not linked from nav. Uses nitrosend public API key (wpkey_*) for email capture against `POST /v1/public/contacts`. List 45 on contact@ account. The public contacts endpoint was missing in the API and shipped in commits 2127fc5 (initial endpoint) and 66817a7 (Codex security review: always returns `{ok: true}` with 201 to prevent email enumeration, idempotent list membership for already-existing contacts). Production deploy pending.
 
-**Figma MCP:** Consistently returning net::ERR_FAILED despite Figma desktop running. May need restart or reconnection. File key: R0TGDVXqjQNIdVI4DxCbKM, target node: 99:3.
+**Collection GIF:** `assets/best-emails-collection.gif` (4.8MB, 45 frames @ 0.5s). Hosted on Nitrosend CDN at `https://api.nitrosend.com/cdn/images/eyJfcmFpbHMiOnsiZGF0YSI6MjM2LCJwdXIiOiJibG9iX2lkIn19--fd253919525e76f17df41cac0417ea4cfffb3adf/large/best-emails-collection.gif`. Embedded in EMB email (template 464) and flow email 1 (template 461), both linked to nitrosend.com/best-email-designs.
+
+**Figma file details:**
+- File key: R0TGDVXqjQNIdVI4DxCbKM, Collection page, main frame node 180:2
+- 47 cards across 7 category columns: Welcome (7), Product Launches (6), Newsletters (6), Cart Abandonment (6), Transactional (2), Promotional (9), Brand & Storytelling (11)
+- Layout: portrait cards (460px wide, 600px screenshot + text below)
+- Color scheme: cream background (#FFECD2), dark cards (#1A1A1E), gold accents (#F5C563)
+- All 47 screenshots use top-aligned CROP mode (headers always visible, cropped from bottom only)
+- Header includes: Nitrosend logo + "AI native email" tagline, design.md GitHub button, title + subtitle
+- design.md button links to: https://github.com/CosmoBlk/bestemaildesigns/blob/main/design.md
 
 **To resume:** Run `let's continue the best-email-designs build` and Claude will read this spec + memory file to pick up where it left off.
 

@@ -1,7 +1,7 @@
 # 50+ Best Email Designs of 2026 - AI Design Reference
 
 > **Feed this file to Claude, Cursor, ChatGPT, or any AI to level up your email designs.**
-> Curated by George Hartley (SmartrMail, 10B emails sent). Powered by [Nitrosend](https://nitrosend.com).
+> Curated by George Hartley (SmartrMail, 6B emails sent). Powered by [Nitrosend](https://nitrosend.com).
 
 ---
 
@@ -563,7 +563,7 @@ so your AI understands *why* each design works, not just *what* it looks like.
 ## About This Collection
 
 Curated by [George Hartley](https://x.com/gthartley), CEO of [Nitrosend](https://nitrosend.com).
-Previously: SmartrMail (12K customers, 10B emails, acquired 2022), Sendicate (28K users).
+Previously: SmartrMail (12K customers, 6B emails, acquired 2022), Sendicate (28K users).
 
 This collection is part of the [Email Marketing Bible](https://emailmarketingskill.com) -
 908 sources, 44 experts, 4,798 insights on email marketing.

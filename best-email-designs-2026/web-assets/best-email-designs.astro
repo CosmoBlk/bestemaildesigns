@@ -1,0 +1,18 @@
+---
+import Base from '../layouts/Base.astro';
+import Nav from '../components/Nav';
+import Footer from '../components/sections/Footer';
+import BestEmailDesignsHero from '../components/sections/BestEmailDesignsHero';
+---
+
+<Base
+  title="57 Best Email Designs of 2026 - Free Collection"
+  description="57 hand-curated email designs from the world's best brands. Human taste, not an algorithm. Free Figma file with screenshots, notes on why each works, and what to steal."
+  ogImage="/og-best-email-designs.png"
+>
+  <Nav client:load />
+  <main>
+    <BestEmailDesignsHero client:load />
+    <Footer client:load />
+  </main>
+</Base>
