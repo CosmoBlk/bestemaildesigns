@@ -1,4 +1,4 @@
-# 50+ Best Email Designs of 2026 - AI Design Reference
+# 47 Best Email Designs of 2026 - AI Design Reference
 
 > **Feed this file to Claude, Cursor, ChatGPT, or any AI to level up your email designs.**
 > Curated by George Hartley (SmartrMail, 6B emails sent). Powered by [Nitrosend](https://nitrosend.com).
