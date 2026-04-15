@@ -20,6 +20,7 @@
 | 8. EMB Update Email | DONE | Campaign 120 on george@ account, template 464. Subject: "47 emails your AI should study". Dark theme, IBM Plex Mono, EMB orange, GIF embedded. Test sent. |
 | 9. Nitrosend Product Update | DONE | Campaign 121 on contact@ account, template 465. Test sent. |
 | 10. Learning doc | DONE | learning.md created with 7 prioritised API/MCP improvement recommendations from running this launch through the agent. Codex-reviewed. |
+| 11. Whop repost bounty | READY TO ACTIVATE | $500 total budget, $50 per qualified repost, first ~10 paid. Listing copy in `whop-listing.md` + `best-email-designs-2026/whop/whop-listing.md`. Activation trigger: as soon as Twitter thread + LinkedIn post are live, paste the URLs into the listing and publish on Whop. Targets both X/Twitter and LinkedIn reposters with 5K+ follower accounts. |
 
 **Figma file:** 47 cards total. All screenshots present and top-aligned. Weak cards removed (Haoma, Webflow, MoMA, Starbucks, Patagonia Newsletter, duplicate Fly By Jing). Omsom moved to Promotional, Alo Yoga moved to Welcome. Lucy Folk, MONA, Pangaia moved to top of Brand & Storytelling. Pangaia description rewritten with brand research.
 

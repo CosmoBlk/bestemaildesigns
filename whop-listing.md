@@ -1,4 +1,4 @@
-# Looking for 10 influencers to repost a free email design collection
+# $500 paid to repost the "47 Best Email Designs of 2026" launch
 
 ## What we made
 
@@ -19,9 +19,9 @@ George Hartley (@gthartley on X), founder of Nitrosend. Previously co-founded Sm
 
 ## What we're looking for
 
-10 influencers to repost our launch post on X/Twitter. Ideal profiles:
+Creators and clippers on X/Twitter and LinkedIn to repost or quote-tweet our two launch posts (going live Wed 15 April 2026). Ideal profiles:
 
-- **5K-50K followers** on X/Twitter
+- **5K+ followers** on X/Twitter or LinkedIn
 - Active in one of these niches:
   - AI builders / vibe coders / building with AI tools
   - Design inspiration (UI/UX, web design, email design)
@@ -31,14 +31,23 @@ George Hartley (@gthartley on X), founder of Nitrosend. Previously co-founded Sm
 
 ## What we're paying
 
-- **$50 per repost** (under 20K followers)
-- **$100 per repost** (20K+ followers)
+**$500 total budget. $50 per qualified repost.** First ~10 people paid.
 
-Payment via PayPal, Wise, or Venmo. Paid within 24 hours of repost going live.
+- $50 per repost on X/Twitter (min 5K followers)
+- $50 per repost on LinkedIn (min 5K connections)
+- $100 for accounts with 50K+ followers (limited slots)
+- Quote tweets with your genuine take count and often perform better
+
+Payment via PayPal, Wise, or Venmo within 24 hours of repost going live.
 
 ## What you'd be reposting
 
-A simple repost (or quote tweet with your take) of our launch post sharing the free collection. The collection is genuinely useful content that your audience will appreciate - it's not an ad for a product.
+One or both of these launch posts (both go live Wed 15 April 2026 morning AEST):
+
+- **X/Twitter thread:** https://x.com/gthartley/status/[added once live]
+- **LinkedIn post:** https://www.linkedin.com/in/georgehartley/ (pinned post that morning)
+
+The launch shares a free Figma file with 47 hand-curated email designs from top brands. Genuinely useful content, not an ad. The collection also ships with a design.md file that Claude/ChatGPT/Cursor can consume as reference material.
 
 ## Requirements
 
@@ -46,6 +55,7 @@ A simple repost (or quote tweet with your take) of our launch post sharing the f
 - Real, engaged followers (not purchased)
 - Relevant niche (design, marketing, AI, startups, or indie hacking)
 - Repost must stay up for at least 7 days
+- Post must go live within 24 hours of the launch tweet/LinkedIn post going live
 
 ## How to apply
 

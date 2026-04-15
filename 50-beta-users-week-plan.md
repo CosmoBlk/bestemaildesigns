@@ -481,7 +481,8 @@ Key wins:
 | EMB skill (SKILL.md) V2 | Updated locally |
 | Landing page (nitrosend.com/best-email-designs) | Live |
 | Email flow (form > auto-send) | Flow 221 live (3-email sequence on list 72) |
-| Whop listing | Live |
+| Whop listing (collection product) | Live |
+| Whop repost bounty ($500 budget) | Ready to activate when launch posts are live — see whop-listing.md |
 
 ### Nitrosend Accounts
 
@@ -526,7 +527,9 @@ Key wins:
 **Wednesday 15 April: launch day.**
 - Post Twitter thread (attach best-emails-twitter.gif)
 - Post LinkedIn
+- **Activate Whop repost bounty ($500)** as soon as Twitter + LinkedIn are live. Paste the live post URLs into the listing (placeholder links in `whop-listing.md`) and publish the product on Whop. $50 per qualified repost, first ~10 reposters paid. This is what clippers use to find and amplify your content.
 - Send EMB blast to List #25 (222 contacts). Claude sets it up, George approves.
+- Send Nitrosend product update blast (Campaign 121). George approves.
 - DM everyone who comments on Twitter with the collection link (batch DM in section 6)
 
 **Thursday-Friday:**
