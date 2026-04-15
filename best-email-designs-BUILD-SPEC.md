@@ -12,7 +12,7 @@
 |-------|--------|-------|
 | 1. Research & Curate | DONE | 47 emails curated from 254 candidates. curated-emails.json + curated-emails.md complete. |
 | 2. Figma File | DONE | File key: R0TGDVXqjQNIdVI4DxCbKM. 47 cards across 7 categories. All screenshots present, top-aligned CROP. Cards reviewed, weak cards deleted, categories rebalanced. |
-| 3. Landing Page | DEPLOYED + FIXED | nitrosend.com/best-email-designs live. Public contacts endpoint (POST /v1/public/contacts) shipped in API commits 2127fc5 (initial fix) + 66817a7 (Codex security follow-up: anti-enumeration, idempotent on existing contacts). List 45 (contact@ account). Production deploy pending. |
+| 3. Landing Page | DEPLOYED + LIVE | nitrosend.com/best-email-designs live. Public contacts endpoint (POST /v1/public/contacts) shipped in API commits 2127fc5 (initial fix) + 66817a7 (Codex security follow-up: anti-enumeration, idempotent on existing contacts). List 45 (contact@ account). Production verified live 2026-04-15 (went 404 → 401/auth-reached after deploy). Signups now flow end-to-end. |
 | 4. Nitrosend Email Flow | DONE | Flow 221 (live) on list 72. 3-email sequence with GIF embedded in email 1: (1) Figma link delivery, (2) Claude for Email Skill/EMB day 2, (3) Nitrosend beta ask day 4. Tests sent to georgehartley@gmail.com. |
 | 5. Twitter/X Assets | DONE | X post and LinkedIn post drafted. GIF created (best-emails-collection.gif, 4.8MB, 45 frames @ 0.5s) and hosted on Nitrosend CDN. |
 | 6. Influencer Outreach | DONE | 34 personalised cold outreach drafts created in Gmail (georgehartley@gmail.com) covering 34 of 47 brands. 8 contacts via LinkedIn only, 5 brands skipped. brand-outreach.md has full text. |
@@ -25,7 +25,7 @@
 
 **GitHub:** Committed to https://github.com/CosmoBlk/bestemaildesigns (main branch). design.md is the AI-readable companion file.
 
-**Web repo:** Landing page at nitrosend/web on main branch (PR #3 merged). Deployed via Vercel at nitrosend.com/best-email-designs (200 OK). Not linked from nav. Uses nitrosend public API key (wpkey_*) for email capture against `POST /v1/public/contacts`. List 45 on contact@ account. The public contacts endpoint was missing in the API and shipped in commits 2127fc5 (initial endpoint) and 66817a7 (Codex security review: always returns `{ok: true}` with 201 to prevent email enumeration, idempotent list membership for already-existing contacts). Production deploy pending.
+**Web repo:** Landing page at nitrosend/web on main branch (PR #3 merged). Deployed via Vercel at nitrosend.com/best-email-designs (200 OK). Not linked from nav. Uses nitrosend public API key (wpkey_*) for email capture against `POST /v1/public/contacts`. List 45 on contact@ account. The public contacts endpoint was missing in the API and shipped in commits 2127fc5 (initial endpoint) and 66817a7 (Codex security review: always returns `{ok: true}` with 201 to prevent email enumeration, idempotent list membership for already-existing contacts). Production deploy verified live 2026-04-15.
 
 **Collection GIF:** `assets/best-emails-collection.gif` (4.8MB, 45 frames @ 0.5s). Hosted on Nitrosend CDN at `https://api.nitrosend.com/cdn/images/eyJfcmFpbHMiOnsiZGF0YSI6MjM2LCJwdXIiOiJibG9iX2lkIn19--fd253919525e76f17df41cac0417ea4cfffb3adf/large/best-emails-collection.gif`. Embedded in EMB email (template 464) and flow email 1 (template 461), both linked to nitrosend.com/best-email-designs.
 
