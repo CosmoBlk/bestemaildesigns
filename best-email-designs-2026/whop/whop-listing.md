@@ -42,12 +42,14 @@ Payment via PayPal, Wise, or Venmo within 24 hours of repost going live.
 
 ## What you'd be reposting
 
-One or both of these launch posts (both go live Wed 15 April 2026 morning AEST):
+Both launch posts went live Wed 15 April 2026:
 
-- **X/Twitter thread:** https://x.com/gthartley/status/[added once live]
-- **LinkedIn post:** https://www.linkedin.com/in/georgehartley/ (pinned post that morning)
+- **X/Twitter post:** https://x.com/gthartley/status/2044306610705838225
+- **LinkedIn post:** https://www.linkedin.com/posts/gthartley_ive-sent-6-billion-emails-most-of-them-share-7450069380102590464-w5rG
 
 The launch shares a free Figma file with 47 hand-curated email designs from top brands. Genuinely useful content, not an ad. The collection also ships with a design.md file that Claude/ChatGPT/Cursor can consume as reference material.
+
+**Note on the engagement mechanic:** both posts use a "Reply / Comment 'Figma' and I'll DM you the file" CTA rather than linking directly. If you're reposting, a genuine quote-repost saying why this collection is useful (rather than just a repost) tends to out-perform. You can also link to `nitrosend.com/best-email-designs` in your quote-tweet for readers who want the file without waiting for a DM.
 
 ## Requirements
 
