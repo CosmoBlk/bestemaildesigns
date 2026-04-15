@@ -568,7 +568,7 @@ Previously: SmartrMail (12K customers, 6B emails, acquired 2022), Sendicate (28K
 This collection is part of the [Email Marketing Bible](https://emailmarketingskill.com) -
 908 sources, 44 experts, 4,798 insights on email marketing.
 
-**Figma file:** [View the visual collection](https://www.figma.com/design/R0TGDVXqjQNIdVI4DxCbKM)
+**Figma file:** [View the visual collection](https://www.figma.com/community/file/1626130771879679378)
 **Landing page:** [nitrosend.com/best-email-designs](https://nitrosend.com/best-email-designs)
 
 ---

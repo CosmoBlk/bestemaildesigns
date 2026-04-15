@@ -13,7 +13,7 @@ This isn't a roundup of "top brands with good emails." It's 47 hand-curated emai
 
 I spent a decade building email tools. SmartrMail had 12K customers and sent 6 billion emails before it was acquired in 2022. I've seen a lot of email. Most of it is slop. These 47 are the opposite.
 
-**[Download the full Figma file with screenshots and notes](https://www.figma.com/design/R0TGDVXqjQNIdVI4DxCbKM)** or keep reading for the highlights.
+**[Download the full Figma file with screenshots and notes](https://www.figma.com/community/file/1626130771879679378)** or keep reading for the highlights.
 
 ### How to Use This Chapter
 
@@ -150,4 +150,4 @@ After studying every email in this collection, a few patterns emerge:
 
 ---
 
-*This chapter is a companion to the [47 Best Email Designs Figma file](https://www.figma.com/design/R0TGDVXqjQNIdVI4DxCbKM). The Figma file includes screenshots, source URLs, and visual cards for every email listed above. You can also get the collection at [nitrosend.com/best-email-designs](https://nitrosend.com/best-email-designs).*
+*This chapter is a companion to the [47 Best Email Designs Figma file](https://www.figma.com/community/file/1626130771879679378). The Figma file includes screenshots, source URLs, and visual cards for every email listed above. You can also get the collection at [nitrosend.com/best-email-designs](https://nitrosend.com/best-email-designs).*
